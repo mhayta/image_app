@@ -25,7 +25,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'haml', '~> 4.0', '>= 4.0.7'
 gem 'simple_form', '~> 3.3', '>= 3.3.1'
 gem 'devise', '~> 4.2'
-# gem 'acts_as_votable', '~> 0.10.0'
+gem 'acts_as_votable', '~> 0.10.0'
 gem 'paperclip', '~> 5.1'
 
 # Use ActiveModel has_secure_password
